@@ -23,9 +23,6 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
-### Instructor
-
-Frederick Nwanganga
 
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/frederick-nwanganga?u=104).
 
